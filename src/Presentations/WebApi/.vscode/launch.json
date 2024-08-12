@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: WebApi",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/WebApi.csproj",
+            "launchConfigurationId": "TargetFramework=;WebApi"
+        }
+    ]
+}
